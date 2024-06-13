@@ -5,7 +5,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'ca.ljwbh.filegear-sg.me:2087#优选',
+	'ca.ljwbh.filegear-sg.me:2087#优选－B',
 	'www.kanju8.com:8443#www.kanju8.com',
 	'm.xinpian8.com:8443#m.xinpian8.com',
 	'www.xinpian8.com:8443#www.xinpian8.com',
