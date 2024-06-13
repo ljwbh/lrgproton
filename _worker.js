@@ -5,26 +5,45 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'icook.tw:2053#官方优选域名',
-	'cloudflare.cfgo.cc#优选官方线路',
+	'ca.ljwbh.filegear-sg.me:2087#优选',
+	'www.kanju8.com:8443#www.kanju8.com',
+	'm.xinpian8.com:8443#m.xinpian8.com',
+	'www.xinpian8.com:8443#www.xinpian8.com',
+	'www.yy4080dy.com:8443#www.yy4080dy.com',
+	'www.visa.com.tw:8443#www.visa.com.tw',
+	'www.visa.com.sg:8443#www.visa.com.sg',
+	'www.visa.com.hk:8443#www.visa.com.hk',
+	'www.gov.se:8443#www.gov.se',
+	'www.okcupid.com:8443#www.okcupid.com',
+	'www.udemy.com:8443#wwww.udemy.com',
+	'www.udacity.com:8443#wwww.udacity.com',
+	'2.namesilo123.top:8443#2.namesilo123.top',
+	'6.namesilo123.top:8443#6.namesilo123.top',
+	'7.namesilo123.top:8443#7.namesilo123.top',
+	'www.xworldadmin.com:8443#www.xworldadmin.com',
+	'freeyx.cloudflare88.eu.org:8443#freeyx.cloudflare88.eu.org',
+	'yh6.dtku41.xyz:8443#yh6.dtku41.xyz',
+	'yx.887141.xyz:8443#yx.887141.xyz',
+	'total.kaijia666.online:8443#total.kaijia666.online',
+    'www.glassdoor.com:8443#www.glassdoor.com',
 ];
 
 // 设置优选地址api接口
 let addressesapi = [
-	'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://wenben-6bp.pages.dev/ip.txt?token=313160', //可参考内容格式 自行搭建。
 	//'https://raw.githubusercontent.com/cmliu/WorkerVless2sub/main/addressesipv6api.txt', //IPv6优选内容格式 自行搭建。
 ];
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'www.visa.com.sg#官方优选域名',
-	'www.wto.org:8080#官方优选域名',
-	'www.who.int:8880#官方优选域名',
+	//'www.visa.com.sg#官方优选域名',
+	//'www.wto.org:8080#官方优选域名',
+	//'www.who.int:8880#官方优选域名',
 ];
 
 // 设置优选noTLS地址api接口
 let addressesnotlsapi = [
-	'https://raw.githubusercontent.com/cmliu/CFcdnVmess2sub/main/addressesapi.txt', //可参考内容格式 自行搭建。
+	'https://wenben-6bp.pages.dev/ip2.txt?token=313160', //可参考内容格式 自行搭建。
 ];
 
 let DLS = 8;//速度下限
