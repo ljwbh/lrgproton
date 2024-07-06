@@ -6,14 +6,14 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:8443#优选－B',
-//	'zula.ir:80#zula.ir',
-//	'm.xinpian8.com:8443#m.xinpian8.com',
+	//'zula.ir:80#zula.ir',
+	//'m.xinpian8.com:8443#m.xinpian8.com',
 	'www.xinpian8.com:8443#www.xinpian8.com',
 	'www.yy4080dy.com:8443#www.yy4080dy.com',
 	'www.visa.com.tw:8443#www.visa.com.tw',
 	'www.visa.com.sg:8443#www.visa.com.sg',
-//	'www.visa.com.hk:8443#www.visa.com.hk',
-	'www.gov.se:8443#www.gov.se',
+	//'www.visa.com.hk:8443#www.visa.com.hk',
+	//'www.gov.se:8443#www.gov.se',
 	'www.okcupid.com:8443#www.okcupid.com',
 	'www.udemy.com:8443#wwww.udemy.com',
 	'www.udacity.com:8443#wwww.udacity.com',
