@@ -25,7 +25,7 @@ let addresses = [
 	'yh6.dtku41.xyz:8443#yh6.dtku41.xyz',
 	'yx.887141.xyz:8443#yx.887141.xyz',
 	'total.kaijia666.online:8443#total.kaijia666.online',
-    'www.glassdoor.com:8443#www.glassdoor.com',
+    //'www.glassdoor.com:8443#www.glassdoor.com',
 ];
 
 // 设置优选地址api接口
