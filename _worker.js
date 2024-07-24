@@ -20,7 +20,7 @@ let addresses = [
 	'2.namesilo123.top:8443#2.namesilo123.top',
 	'6.namesilo123.top:8443#6.namesilo123.top',
 	//'7.namesilo123.top:8443#7.namesilo123.top',
-	'www.xworldadmin.com:8443#www.xworldadmin.com',
+	//'www.xworldadmin.com:8443#www.xworldadmin.com',
 	//'freeyx.cloudflare88.eu.org:8443#freeyx.cloudflare88.eu.org',
 	//'yh6.dtku41.xyz:8443#yh6.dtku41.xyz',
 	//'yx.887141.xyz:8443#yx.887141.xyz',
