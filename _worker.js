@@ -17,7 +17,7 @@ let addresses = [
 	'www.udacity.com:8443#wwww.udacity.com',
 	'www.iios.me:8443#www.iios.me',
 	'www.iios.club:8443#www.iios.club',
-	'7.namesilo123.top:8443#7.namesilo123.top',
+	'1.namesilo123.top:8443#1.namesilo123.top',
 	//'www.xworldadmin.com:8443#www.xworldadmin.com',
 	//'freeyx.cloudflare88.eu.org:8443#freeyx.cloudflare88.eu.org',
 	//'yh6.dtku41.xyz:8443#yh6.dtku41.xyz',
