@@ -5,7 +5,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'ca.ljwbh.filegear-sg.me:57610#优选－B',
+	'ca.ljwbh.filegear-sg.me:57265#优选－B',
 	 //'m.xinpian8.com:8443#m.xinpian8.com',
 	//'www.xinpian8.com:8443#www.xinpian8.com',
 	'www.yy4080dy.com:8443#www.yy4080dy.com',
@@ -34,7 +34,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'notls.jw163.us.kg:30809#优选',
+	'notls.jw163.us.kg:2083#优选',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
 ];
