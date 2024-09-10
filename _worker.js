@@ -34,7 +34,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-	'notls.jw163.us.kg:2052#优选',
+	'notls.jw163.us.kg:80#优选',
 	//'www.wto.org:8080#官方优选域名',
 	//'www.who.int:8880#官方优选域名',
 ];
