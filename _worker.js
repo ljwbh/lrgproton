@@ -5,11 +5,11 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'ca.ljwbh.filegear-sg.me:33502#优选－B',
+	'ca.ljwbh.filegear-sg.me:27050#优选－B',
 	 //'m.xinpian8.com:8443#m.xinpian8.com',
 	//'www.xinpian8.com:8443#www.xinpian8.com',
-	'www.yy4080dy.com:8443#www.yy4080dy.com',
-	'www.vodbd.com:8443#www.vodbd.com',
+	//'www.yy4080dy.com:8443#www.yy4080dy.com',
+	//'www.vodbd.com:8443#www.vodbd.com',
 	//'www.visa.com.sg:8443#www.visa.com.sg',
 	//'www.gov.se:8443#www.gov.se',
 	//'www.okcupid.com:8443#www.okcupid.com',
