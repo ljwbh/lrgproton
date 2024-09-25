@@ -6,24 +6,12 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:24238#优选－B',
-	 //'m.xinpian8.com:8443#m.xinpian8.com',
-	//'www.xinpian8.com:8443#www.xinpian8.com',
-	//'www.yy4080dy.com:8443#www.yy4080dy.com',
-	//'www.vodbd.com:8443#www.vodbd.com',
-	//'www.visa.com.sg:8443#www.visa.com.sg',
-	//'www.gov.se:8443#www.gov.se',
-	//'www.okcupid.com:8443#www.okcupid.com',
-	'csgoob.com:8443#csgoob.com',
-	'www.udacity.com:8443#wwww.udacity.com',
+	'melina.ns.cloudflare.com:443#melina',
+	'kaiser.ns.cloudflare.com:443#kaiser',
+	'thaddeus.ns.cloudflare.com:443#thaddeus',
+	'romina.ns.cloudflare.com:443#romina',
 	'www.iios.me:8443#www.iios.me',
 	'www.iios.club:8443#www.iios.club',
-	//'1.namesilo123.top:443#1.namesilo123.top',
-	//'www.xworldadmin.com:8443#www.xworldadmin.com',
-	//'freeyx.cloudflare88.eu.org:8443#freeyx.cloudflare88.eu.org',
-	//'yh6.dtku41.xyz:8443#yh6.dtku41.xyz',
-	//'yx.887141.xyz:8443#yx.887141.xyz',
-	//'total.kaijia666.online:8443#total.kaijia666.online',
-    //'www.glassdoor.com:8443#www.glassdoor.com',
 ];
 
 // 设置优选地址api接口
