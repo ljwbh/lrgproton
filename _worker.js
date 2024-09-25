@@ -13,7 +13,6 @@ let addresses = [
 	'www.iios.me:8443#www.iios.me',
 	'www.iios.club:8443#www.iios.club',
 ];
-
 // 设置优选地址api接口
 let addressesapi = [
 	'https://wenben-6bp.pages.dev/ip.txt?token=313160', //可参考内容格式 自行搭建。
