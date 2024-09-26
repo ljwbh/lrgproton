@@ -5,7 +5,7 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
-	'ca.ljwbh.filegear-sg.me:46664#优选－B',
+	'ca.ljwbh.filegear-sg.me:41259#优选－B',
 	'melina.ns.cloudflare.com:443#melina',
 	'kaiser.ns.cloudflare.com:443#kaiser',
 	'thaddeus.ns.cloudflare.com:443#thaddeus',
