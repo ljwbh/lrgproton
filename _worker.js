@@ -23,7 +23,7 @@ let addressesapi = [
 
 // 设置优选地址，不带端口号默认80，noTLS订阅生成
 let addressesnotls = [
-        'notls.jw163.us.kg:2052#优选',	
+        'notls.jw163.us.kg:80#优选',	
         'thaddeus.ns.cloudflare.com:80#thaddeus',
 	'thaddeus.ns.cloudflare.com:80#thaddeus',
 	'www.iios.me:80#www.iios.me',
