@@ -6,14 +6,11 @@ let mytoken= ['auto'];//快速订阅访问入口, 留空则不启动快速订阅
 // 设置优选地址，不带端口号默认443，TLS订阅生成
 let addresses = [
 	'ca.ljwbh.filegear-sg.me:443#优选－B',
-	//'thaddeus.ns.cloudflare.com:443#thaddeus',
-	//'thaddeus.ns.cloudflare.com:443#thaddeus',
-	//'www.iios.me:443#www.iios.me',
-	//'www.iios.club:443#www.iios.club',
-	//'www.visa.com.sg:443#visa.com.sg',
-	//'www.visa.com.tw:443#visa.com.tw',
-	//'www.visa.co.jp:443#visa.co.jp',
-	//'www.digitalocean.com:443#digitalocean',
+	'ca.ljwbh.filegear-sg.me:443#优选－B',
+	'www.shopify.com:443#www.shopify.com',
+	'download.yunzhongzhuan.com:443#yunzhongzhuan.com',
+	'www.visa.com.hk:443#visa.com.hk',
+	'www.udacity.com:443#udacity.com',
 ];
 // 设置优选地址api接口
 let addressesapi = [
